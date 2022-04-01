@@ -1,3 +1,11 @@
-h3{}
+h3{
+	width: 300pt;
+	height: 4cm;
+	border-color: fuchsia;
+	border-style: dashed;
+	margin-left: 0;
+	margin-right: auto;
+	font-size: 30px;
+}
 
 /* Dawid Poblocki*/
